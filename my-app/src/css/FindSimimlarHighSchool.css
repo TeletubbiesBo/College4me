@@ -1,0 +1,25 @@
+@import '~antd/dist/antd.css';
+
+.title_similarHighSchool{
+    padding: 3% 5%; 
+    text-align: center;
+    /* background-color: rgb(255, 119, 0); */
+    background-image: linear-gradient(to bottom, white, #F0F8FF);
+    margin-bottom: 3%;
+}
+.similarHightSchoolPage{
+    text-align: center;
+    padding-bottom: 500px;
+    grid-area: content;
+    background-color: rgb(251, 255, 248);
+}
+
+
+
+h1.ant-typography, .ant-typography h1 {
+    margin-bottom: 0em;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 1.23;
+}
